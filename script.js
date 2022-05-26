@@ -18,7 +18,3 @@ $(document).ready(function() {
         $(".stream3").addClass('highlight_stream');
    });
 }); 
-
-    © 2022 GitHub, Inc.
-
-    Terms
